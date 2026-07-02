@@ -1,74 +1,156 @@
-# Hi there, I'm Thiago Servoli 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Thiago Servoli
 
-### Front-End Developer | React | TypeScript | Next.js
+<div align="center">
 
-I'm a **Front-End Developer** from Brazil with over **6 years of experience in the technology industry** and currently working professionally with **React, TypeScript, JavaScript, HTML5 and CSS3**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+TypeScript+Specialist;Building+Modern+Web+Experiences;Always+Learning+New+Technologies"/>
 
-I enjoy building modern, responsive and scalable web applications while creating intuitive user experiences. I'm always looking to improve my skills and stay up to date with the latest technologies.
+</div>
+
+<div align="center">
+
+*"Turning ideas into beautiful, fast and scalable web experiences."*
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Front-End Developer at **Grupo In Press**
-* ⚛️ Working daily with **React**, **TypeScript**, **JavaScript**, **HTML5** and **CSS3**
-* 🌱 Currently learning **Node.js**, **Docker**, **Next.js** and backend development
-* 🎯 Passionate about clean code, performance and UI/UX
-* 🤝 I enjoy collaborating, solving problems and building products that make a difference
+I'm a **Front-End Developer** from **Brazil 🇧🇷** with over **6 years of experience in the technology industry**, currently working professionally at **Grupo In Press**.
+
+I specialize in building **modern**, **responsive**, and **high-performance** web applications using the React ecosystem.
+
+I enjoy transforming ideas into intuitive digital experiences, writing clean and maintainable code, and continuously learning new technologies to become a more complete software engineer.
+
+Currently, I'm expanding my knowledge in backend development and cloud technologies while improving my skills in software architecture.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
+
+<div align="center">
 
 ### Front-End
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css"/>
+
+### Back-End
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma"/>
+
+</div>
 
 ---
 
-## 📚 Currently Studying
-
-* Node.js
-* Docker
-* Next.js
-* REST APIs
-* SQL & NoSQL Databases
-
----
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=thiagoservoli&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+✔ React
+✔ TypeScript
+✔ JavaScript (ES6+)
+✔ HTML5
+✔ CSS3
+
+⬢ Node.js
+⬢ Docker
+⬢ Next.js
+⬢ SQL / NoSQL
+⬢ Software Architecture
+```
+
+---
+
+## 🎯 What I Love
+
+* ⚛️ Building scalable React applications
+* 🎨 Creating beautiful UI interfaces
+* 🚀 Performance optimization
+* 📱 Responsive Design
+* 🔥 Clean Code
+* 🤝 Team collaboration
+* 📚 Continuous learning
+
+---
+
+## 💼 Professional Experience
+
+### Front-End Developer Jr.
+
+* ⚛️ Development of modern React applications
+* 🔄 API integrations
+* 📱 Responsive interfaces
+* 🎨 UI implementation
+* 🛠️ Code versioning with Git
+* 🚀 Performance optimization
+* 🤝 Agile development
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Internal Interaction Platform
+
+A platform developed for senac brazil to improve communication and engagement between students inside the institution.
+
+**Tech Stack**
+
+React • JavaScript • HTML • CSS
+
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/thiagoservoli/" target="_blank">
+<div align="center">
+
+<a href="mailto:thiagoservoli26@hotmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thiagoservoli">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:thiagoservoli26@hotmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+</div>
 
 ---
 
-> *"Great software isn't just about writing code — it's about creating experiences that people enjoy using."*
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer"/>
+
+</div>
