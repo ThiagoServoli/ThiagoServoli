@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="./lang-en-on.svg" height="36" alt="English (current)">&nbsp;
+  <a href="https://github.com/ThiagoServoli/ThiagoServoli/blob/main/README.pt-BR.md"><img src="./lang-pt-off.svg" height="36" alt="Ler em português"></a>
+</p>
+
 <a href="https://thiagoservoli.vercel.app/">
   <img src="./hero.svg" width="100%" alt="Thiago Servoli. Full stack developer and founder of Click., based in São Paulo, Brazil. I build fast, accessible interfaces, connect them to solid APIs and ship products from idea to launch.">
 </a>
