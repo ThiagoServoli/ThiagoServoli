@@ -55,10 +55,6 @@ In 2026 I founded **Click.**, a digital studio that helps companies move their o
 
 ## Activity.
 
-<img src="https://streak-stats.demolab.com?user=ThiagoServoli&background=12110E&stroke=2E2C26&ring=FB4F14&fire=FB4F14&currStreakNum=EEECD5&sideNums=EEECD5&currStreakLabel=FB4F14&sideLabels=9E9B86&dates=9E9B86&hide_border=true&border_radius=20" width="100%" alt="Thiago's GitHub contribution streak">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoServoli&bg_color=12110E&color=9E9B86&title_color=EEECD5&line=FB4F14&point=EEECD5&area=true&area_color=FB4F14&hide_border=true&radius=20&custom_title=Contributions%20in%20the%20last%2031%20days" width="100%" alt="Thiago's contributions in the last 31 days">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoServoli/ThiagoServoli/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoServoli/ThiagoServoli/output/snake-light.svg">
