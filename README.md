@@ -1,156 +1,81 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Thiago Servoli
+<a href="https://thiagoservoli.vercel.app/">
+  <img src="./assets/hero.svg" width="100%" alt="Thiago Servoli. Full stack developer and founder of Click., based in São Paulo, Brazil. I build fast, accessible interfaces, connect them to solid APIs and ship products from idea to launch.">
+</a>
 
-<div align="center">
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+TypeScript+Specialist;Building+Modern+Web+Experiences;Always+Learning+New+Technologies"/>
+## About.
 
-</div>
+I've worked in tech since 2019. I started on the support desk, which taught me how software actually breaks for the people using it. Today I build the other side: fast, responsive and accessible interfaces with **React**, **Next.js** and **TypeScript**, connected to the APIs and services behind them.
 
-<div align="center">
+At **Grupo In Press** I'm a front-end developer. I build web interfaces focused on performance and user experience, work on Next.js applications that talk to FastAPI services, and collaborate closely with design and product.
 
-*"Turning ideas into beautiful, fast and scalable web experiences."*
+I'm going deeper on the back end with **Node.js**, **Python**, REST APIs, SQL and Docker. The goal is to understand an application end to end, from what the user sees to the business logic and the data underneath.
 
-</div>
+> Technology goes beyond writing code. It's understanding the problem, building a good experience and shipping something simple that's ready to grow.
 
----
+<br>
 
-## 🚀 About Me
+## Journey.
 
-I'm a **Front-End Developer** from **Brazil 🇧🇷** with over **6 years of experience in the technology industry**, currently working professionally at **Grupo In Press**.
+<img src="./assets/journey.svg" width="100%" alt="From the support desk to my own studio. 2018: IT technician course at Senac. 2019: IT apprentice at Araujo Abreu Engenharia. 2020: Systems Analysis and Development degree at Impacta. 2021: Support analyst at Grupo In Press. 2025: Front-end developer at Grupo In Press. 2026: Founder and CEO of Click.">
 
-I specialize in building **modern**, **responsive**, and **high-performance** web applications using the React ecosystem.
+<br>
 
-I enjoy transforming ideas into intuitive digital experiences, writing clean and maintainable code, and continuously learning new technologies to become a more complete software engineer.
+## Click.
 
-Currently, I'm expanding my knowledge in backend development and cloud technologies while improving my skills in software architecture.
+<a href="https://www.clickconsultoriabr.com.br/">
+  <img src="./assets/click.svg" width="100%" alt="Click. Software built to order. Sites, web systems, apps and automations for companies that want to run better, from the first diagnosis to launch day. Visit clickconsultoriabr.com.br">
+</a>
 
----
+In 2026 I founded **Click.**, a digital studio that helps companies move their operations out of spreadsheets and manual processes. We design and build sites, web systems, apps and automations to order. I lead client work, solution architecture and development.
 
-## 💻 Tech Stack
+<br>
 
-<div align="center">
+## Stack.
 
-### Front-End
+| Layer | Tools |
+| :-- | :-- |
+| **Front end** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark" height="44" alt="React, Next.js, TypeScript, JavaScript, HTML5, CSS3"> |
+| **Back end** | <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi&theme=dark" height="44" alt="Node.js, Python, FastAPI"> |
+| **Data** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="44" alt="SQL with MySQL"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" height="44" alt="Git, GitHub, Docker, VS Code, Figma"> |
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css"/>
+<br>
 
-### Back-End
+## Selected work.
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+| Project | What it is |
+| :-- | :-- |
+| [**Click.**](https://www.clickconsultoriabr.com.br/) | The studio's website, where companies start a project with a diagnosis. |
+| [**Portfolio**](https://thiagoservoli.vercel.app/) | My personal site, with projects and case studies. |
+| **Senac student platform** | An app built at Senac to improve communication between students, made with React, JavaScript, HTML and CSS. |
 
-### Databases
+<br>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+## Activity.
 
-### Tools
+<img src="https://streak-stats.demolab.com?user=ThiagoServoli&background=12110E&stroke=2E2C26&ring=FB4F14&fire=FB4F14&currStreakNum=EEECD5&sideNums=EEECD5&currStreakLabel=FB4F14&sideLabels=9E9B86&dates=9E9B86&hide_border=true&border_radius=20" width="100%" alt="Thiago's GitHub contribution streak">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoServoli&bg_color=12110E&color=9E9B86&title_color=EEECD5&line=FB4F14&point=EEECD5&area=true&area_color=FB4F14&hide_border=true&radius=20&custom_title=Contributions%20in%20the%20last%2031%20days" width="100%" alt="Thiago's contributions in the last 31 days">
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoServoli/ThiagoServoli/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoServoli/ThiagoServoli/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/ThiagoServoli/ThiagoServoli/output/snake-dark.svg" width="100%" alt="An orange snake eating Thiago's contribution graph">
+</picture>
 
----
+<br>
 
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```text
-✔ React
-✔ TypeScript
-✔ JavaScript (ES6+)
-✔ HTML5
-✔ CSS3
-
-⬢ Node.js
-⬢ Docker
-⬢ Next.js
-⬢ SQL / NoSQL
-⬢ Software Architecture
-```
-
----
-
-## 🎯 What I Love
-
-* ⚛️ Building scalable React applications
-* 🎨 Creating beautiful UI interfaces
-* 🚀 Performance optimization
-* 📱 Responsive Design
-* 🔥 Clean Code
-* 🤝 Team collaboration
-* 📚 Continuous learning
-
----
-
-## 💼 Professional Experience
-
-### Front-End Developer Jr.
-
-* ⚛️ Development of modern React applications
-* 🔄 API integrations
-* 📱 Responsive interfaces
-* 🎨 UI implementation
-* 🛠️ Code versioning with Git
-* 🚀 Performance optimization
-* 🤝 Agile development
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Internal Interaction Platform
-
-A platform developed for senac brazil to improve communication and engagement between students inside the institution.
-
-**Tech Stack**
-
-React • JavaScript • HTML • CSS
-
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
+## Contact.
 
 <a href="mailto:thiagoservoli26@hotmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="./assets/contact.svg" width="100%" alt="Have a project in mind? Open to connections, job opportunities, partnerships and new projects. thiagoservoli26@hotmail.com">
 </a>
 
-<a href="https://www.linkedin.com/in/thiagoservoli">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer"/>
-
-</div>
+<p>
+  <a href="mailto:thiagoservoli26@hotmail.com"><img src="./assets/btn-email.svg" height="48" alt="Send an email"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/thiagoservoli"><img src="./assets/btn-linkedin.svg" height="48" alt="LinkedIn"></a>&nbsp;
+  <a href="https://thiagoservoli.vercel.app/"><img src="./assets/btn-portfolio.svg" height="48" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.clickconsultoriabr.com.br/"><img src="./assets/btn-click-site.svg" height="48" alt="Click. website"></a>
+</p>
