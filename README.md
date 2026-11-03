@@ -1,5 +1,5 @@
 <a href="https://thiagoservoli.vercel.app/">
-  <img src="./assets/hero.svg" width="100%" alt="Thiago Servoli. Full stack developer and founder of Click., based in São Paulo, Brazil. I build fast, accessible interfaces, connect them to solid APIs and ship products from idea to launch.">
+  <img src="./hero.svg" width="100%" alt="Thiago Servoli. Full stack developer and founder of Click., based in São Paulo, Brazil. I build fast, accessible interfaces, connect them to solid APIs and ship products from idea to launch.">
 </a>
 
 <br>
@@ -18,14 +18,14 @@ I'm going deeper on the back end with **Node.js**, **Python**, REST APIs, SQL an
 
 ## Journey.
 
-<img src="./assets/journey.svg" width="100%" alt="From the support desk to my own studio. 2018: IT technician course at Senac. 2019: IT apprentice at Araujo Abreu Engenharia. 2020: Systems Analysis and Development degree at Impacta. 2021: Support analyst at Grupo In Press. 2025: Front-end developer at Grupo In Press. 2026: Founder and CEO of Click.">
+<img src="./journey.svg" width="100%" alt="From the support desk to my own studio. 2018: IT technician course at Senac. 2019: IT apprentice at Araujo Abreu Engenharia. 2020: Systems Analysis and Development degree at Impacta. 2021: Support analyst at Grupo In Press. 2025: Front-end developer at Grupo In Press. 2026: Founder and CEO of Click.">
 
 <br>
 
 ## Click.
 
 <a href="https://www.clickconsultoriabr.com.br/">
-  <img src="./assets/click.svg" width="100%" alt="Click. Software built to order. Sites, web systems, apps and automations for companies that want to run better, from the first diagnosis to launch day. Visit clickconsultoriabr.com.br">
+  <img src="./click.svg" width="100%" alt="Click. Software built to order. Sites, web systems, apps and automations for companies that want to run better, from the first diagnosis to launch day. Visit clickconsultoriabr.com.br">
 </a>
 
 In 2026 I founded **Click.**, a digital studio that helps companies move their operations out of spreadsheets and manual processes. We design and build sites, web systems, apps and automations to order. I lead client work, solution architecture and development.
@@ -70,12 +70,12 @@ In 2026 I founded **Click.**, a digital studio that helps companies move their o
 ## Contact.
 
 <a href="mailto:thiagoservoli26@hotmail.com">
-  <img src="./assets/contact.svg" width="100%" alt="Have a project in mind? Open to connections, job opportunities, partnerships and new projects. thiagoservoli26@hotmail.com">
+  <img src="./contact.svg" width="100%" alt="Have a project in mind? Open to connections, job opportunities, partnerships and new projects. thiagoservoli26@hotmail.com">
 </a>
 
 <p>
-  <a href="mailto:thiagoservoli26@hotmail.com"><img src="./assets/btn-email.svg" height="48" alt="Send an email"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/thiagoservoli"><img src="./assets/btn-linkedin.svg" height="48" alt="LinkedIn"></a>&nbsp;
-  <a href="https://thiagoservoli.vercel.app/"><img src="./assets/btn-portfolio.svg" height="48" alt="Portfolio"></a>&nbsp;
-  <a href="https://www.clickconsultoriabr.com.br/"><img src="./assets/btn-click-site.svg" height="48" alt="Click. website"></a>
+  <a href="mailto:thiagoservoli26@hotmail.com"><img src="./btn-email.svg" height="48" alt="Send an email"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/thiagoservoli"><img src="./btn-linkedin.svg" height="48" alt="LinkedIn"></a>&nbsp;
+  <a href="https://thiagoservoli.vercel.app/"><img src="./btn-portfolio.svg" height="48" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.clickconsultoriabr.com.br/"><img src="./btn-click-site.svg" height="48" alt="Click. website"></a>
 </p>
